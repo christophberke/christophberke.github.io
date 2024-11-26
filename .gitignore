@@ -8,6 +8,11 @@ local/
 # Ignore the Gemfile that is generated
 Gemfile.lock
 
-# Ingore files created by npm
+# Ignore files created by npm
 node_modules
 package-lock.json
+
+# Ignore sublime project files
+.DS_Store
+_pages/christophberkegithub.sublime-project
+_pages/christophberkegithub.sublime-workspace
