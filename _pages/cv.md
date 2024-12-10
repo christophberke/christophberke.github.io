@@ -12,38 +12,7 @@ redirect_from:
 <style>
 * {
   box-sizing: border-box;
-}
-
-/* Create two equal columns that floats next to each other */
-.column60 {
-  float: left;
-  width: 60%;
-  padding: 10px;
-}
-
-.column40 {
-  float: left;
-  width: 40%;
-  padding: 10px;
-}
-
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column60 {
-    width: 100%;
-  }
-  .column40 {
-    width: 100%;
-  }
-}
+} 
 </style>
 
 
