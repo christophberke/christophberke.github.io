@@ -60,19 +60,24 @@ $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
+$plum                       : #620059;
+$light-plum                 : #734675;
 
 $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
+// $text-color                 : #FF00FF;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
+$primary-color              : #00ced1;
+// $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #52adc8;
+$cardinal-red               : #8c1515;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -105,8 +110,12 @@ $xing-color                 : #006567;
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
+// Color of tabs in upper navigation bar.
 $masthead-link-color        : $primary-color;
+// $masthead-link-color        : #1a81e2;
+// Color when hovered (but not the underlying bar)
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+// $masthead-link-color-hover  : #a4b417;
 
 
 /*
@@ -162,4 +171,4 @@ $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
-$global-transition          : all 0.2s ease-in-out;
+$global-transition          : all 0.5s ease-in-out;

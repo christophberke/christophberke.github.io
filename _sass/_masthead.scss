@@ -4,7 +4,12 @@
 
 .masthead {
   position: fixed;
-  background: white;
+  // Background for entire header bar (not only content)
+  background: rgb(227, 21, 21);
+  // Add background picture
+  background-image: url("bgs/perlin5b.png");
+  background-size: cover;
+  background-repeat: no-repeat;
   border-bottom: 1px solid $border-color;
   height: $masthead-height;
   top: 0;
