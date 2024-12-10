@@ -175,7 +175,8 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  // Change color of header / navigaton bar content
+  background: rgba(#000, 0);
 
   a {
     display: block;
@@ -196,6 +197,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
+    // This changes the "more" button color.
     background-color: $primary-color;
     color: #fff;
     cursor: pointer;
