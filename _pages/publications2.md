@@ -3,6 +3,10 @@ layout: single
 title: "Publications"
 permalink: /publications2/
 author_profile: true
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  overlay_image: headerimage1.png
+  overlay_filter: rgba(140, 21, 21, 0.5)
 ---
 
 <style>
@@ -199,7 +203,7 @@ Christoph Berke,
 <span style="color:darkgray"> Ph.D. thesis, University of Cologne (2023) </span>
 <br>
 <small>
-get thesis | get slides
+<a href = "../files/berke_PhDthesis.pdf">get thesis</a> | <a href = "../files/berke_PhDslides.pdf">get slides</a>
 </small>
 </p>
 <hr>
@@ -219,7 +223,7 @@ get thesis | get slides
 <hr>
 </div>
 
-<button class="accordion">Books</button>
+<button class="accordion">Book contributions</button>
 <div class="panel">
  <p class="publink">
 <a href="https://www.doz-verlag.de/node/78"> 
