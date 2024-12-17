@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications2/
 author_profile: true
@@ -161,28 +161,28 @@ Ciarán Hickey, <strong>Christoph Berke</strong>, Panagiotis Peter Stavropoulos,
 <h3 style="color:var(--yearcolor)"> 2014 </h3>
 <!-- Zernike I -->
 <p class="publink">
-<a href="../files/abstract_zernike.pdf"> 
+<a href="../files/zernike_abstract.pdf"> 
 <i> "Zernike-Polynome: Grundlagen und Anwendungen in der Topografie der Hornhaut, Teil 1"</i> 
 </a>
 <br>
 Andreas Berke and <strong>Christoph Berke</strong>
 <br>
 <span style="color:darkgray"> die Kontaktlinse <strong>6/2014</strong> 4-9 (2014) </span>
-<small>[not available online, download abstract]</small>
+<small>[not available online, <a href="../files/zernike_abstract.pdf">download abstract</a>]</small>
 </p>
 <hr>
 
 
 <!-- Zernike II -->
 <p class="publink">
-<a href="../files/abstract_zernike.pdf"> 
+<a href="../files/zernike_abstract.pdf"> 
 <i> "Zernike-Polynome: Grundlagen und Anwendungen in der Topografie der Hornhaut, Teil 2"</i> 
 </a>
 <br>
 Andreas Berke and <strong>Christoph Berke</strong>
 <br>
 <span style="color:darkgray"> die Kontaktlinse <strong>9/2014</strong> 4-10 (2014) </span>
-<small>[not available online, download abstract]</small>
+<small>[not available online, <a href="../files/zernike_abstract.pdf">download abstract</a>]</small>
 </p>
 <hr>
 </div>
@@ -197,6 +197,10 @@ Andreas Berke and <strong>Christoph Berke</strong>
 <br>
 Christoph Berke, 
 <span style="color:darkgray"> Ph.D. thesis, University of Cologne (2023) </span>
+<br>
+<small>
+get thesis | get slides
+</small>
 </p>
 <hr>
 
@@ -207,6 +211,10 @@ Christoph Berke,
 <br>
 Christoph Berke, 
 <span style="color:darkgray"> Master thesis, TUD Dresden Technical University (2016) </span>
+<br>
+<small>
+get thesis | get slides
+</small>
 </p>
 <hr>
 </div>
@@ -229,6 +237,7 @@ DOZ-Verlag (2013)
 <hr>
 </div>
 
+</body>
 
 <script>
 var acc = document.getElementsByClassName("accordion");
