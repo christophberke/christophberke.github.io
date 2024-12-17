@@ -1,38 +1,32 @@
 /* Add some user defined styles. */
 :root {
-  --adoblue: #7ed218;
-  --yearcolor: #0c768e;
+  --yearcolor: #7ed218;
+  --paperlink: #0c768e;
 }
 
 
 .publink {
   a {
-    color : var(--adoblue);
+    color : var(--paperlink);
+    transition:color .2s ease-out;
 
     &:link {
       text-decoration: none;
-      color : mix($primary-color, #000000, 0.5)
+      // color : #8e0c5c
     }
     &:visited{
       text-decoration: none;
-      // color : #1d6f9b
+      color : mix(#0c768e, #000000, 50%)
     }
     &:hover {
       text-decoration : underline;
-      color :mix($primary-color, #000000, 0.5)
+      color : $primary-color
     }
   }
 
 }
-// .publink:visited {
-//   color :rgb(69, 169, 26)
-// }
-// .publink:hover {
-//   color : rgb(63, 27, 173);
-//   text-decoration: none;
-// }
 
-/* Create two equal columns that floats next to each other */
+/* Create two columns that floats next to each other */
 .column60 {
     float: left;
     width: 60%;
