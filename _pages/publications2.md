@@ -7,6 +7,7 @@ excerpt: "This post should display a **header with an overlay image**, if the th
 header:
   overlay_image: headerimage1.png
   overlay_filter: rgba(140, 21, 21, 0.5)
+  # text_color: black
 ---
 
 <style>

@@ -25,6 +25,18 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
 
+<style>
+{% if page.header.text_color %}
+    .page__hero--overlay .page__title,
+    .page__hero--overlay .page__meta,
+    .page__hero--overlay .page__lead,
+    .page__hero--overlay .btn {
+    color: {{page.header.text_color}} !important;
+    }
+{% endif %}
+</style>
+
+
 <!-- Support for MatJax -->
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
