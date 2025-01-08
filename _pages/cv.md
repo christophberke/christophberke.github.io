@@ -5,6 +5,10 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+excerpt: "A detailed CV is available for download [here](../files/berkeCV.pdf)."
+header:
+  overlay_image: headerimage1.png
+  overlay_filter: rgba(140, 21, 21, 0.5)
 ---
 
 {% include base_path %}
@@ -16,7 +20,7 @@ redirect_from:
 </style>
 
 
-A detailed CV is [available for download here](../files/berkeCV.pdf)
+<!-- A detailed CV is [available for download here](../files/berkeCV.pdf) -->
 
 
 

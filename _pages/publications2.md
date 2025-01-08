@@ -1,9 +1,9 @@
 ---
-layout: single
+layout: archive
 title: "Publications"
 permalink: /publications2/
-author_profile: true
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+author_profile: false
+# excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
   overlay_image: headerimage1.png
   overlay_filter: rgba(140, 21, 21, 0.5)
