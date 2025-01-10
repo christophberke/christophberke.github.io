@@ -15,7 +15,7 @@
   height: auto;
   /* sticky footer fix end */
   margin-top: 3em;
-  color: mix(#fff, $gray, 25%);
+  color: #fff; /*mix(#fff, $gray, 25%);*/
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
@@ -25,7 +25,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: multiply;
-  border-top: 1px solid $light-gray;
+  border-top: 2px solid $light-gray;
 
   footer {
     @include clearfix;
@@ -53,7 +53,8 @@
   .fab,
   .far,
   .fal {
-    color: mix(#fff, $gray, 25%);
+    // color: mix(#fff, $gray, 25%);
+    color: #fff;
   }
 }
 
