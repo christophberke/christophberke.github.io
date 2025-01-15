@@ -33,8 +33,8 @@ header:
 }
 </style>
 
-In recent years, I became passionate for science communication and was engaged in various public outreach events.
-For one, this is always fun (for me and, as far as I can tell, for my audience too), but I also consider these events important (more than ever in these times) to strengthen trust in science and create a broad acceptance of why so much (tax) money goes to universities for research. Events I have participated in include
+In recent years, I developed a passion for science communication and became actively involved in various public outreach events.
+Not only are these events enjoyable for me (and, as far as I can tell, for my audience as well), but I also see these events as crucial to strengthen trust in science and help the public understand the value of funding research. Events I have participated in include
 
 - Long Night of Science (Dresden, 2017): Talk about the quantum mechanical concept of time. <small>(<a href="https://tu-dresden.de/mn/der-bereich/news/interdisziplinaer-und-zukunftsgewandt-physikphilosophie-an-der-tud">learn more</a>,  <a href="../files/slidesLndW17.pdf">download slides</a>) </small>
 - Pint of Science (Cologne, 2022): Talk about my research on chaos in quantum computers. <small>(<a href = "https://ml4q.de/2022/05/11/back-in-the-pubs-again-ml4q-pint-of-science-2022/">learn more</a>)</small>
