@@ -1,6 +1,6 @@
 /* Add some user defined styles. */
 :root {
-  --yearcolor: #7ed218;
+  --yearcolor: #8C1515;
   --paperlink: #0c768e;
 }
 
@@ -16,11 +16,11 @@
     }
     &:visited{
       text-decoration: none;
-      color : mix(#0c768e, #000000, 50%)
+      // color : mix(#0c768e, #000000, 50%)
     }
     &:hover {
       text-decoration : underline;
-      color : $primary-color
+      // color : $primary-color
     }
   }
 
@@ -39,6 +39,17 @@
     padding: 10px;
   }
   
+  .column85 {
+    float: left;
+    width: 80%;
+    padding: 10px;
+  }
+  
+  .column15 {
+    float: left;
+    width: 20%;
+    padding: 10px;
+  }
   
   /* Clear floats after the columns */
   .row:after {
