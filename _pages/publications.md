@@ -76,7 +76,7 @@ Simon-Dominik Börner, <strong>Christoph Berke</strong>, David P. DiVincenzo, Si
 
 <!-- Chaotic gates -->
 <p class="publink">
-<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.064417"> 
+<a href="https://arxiv.org/abs/2311.14592"> 
 <i> "Chaotic fluctuations in a universal set of transmon qubit gates"</i> 
 </a>
 <br>
@@ -218,7 +218,7 @@ Christoph Berke,
 <span style="color:darkgray"> Master thesis, TUD Dresden Technical University (2016) </span>
 <br>
 <small>
-get thesis | get slides
+<a href="../files/berke_masterthesis.pdf"> get thesis</a> | <a href = "../files/berke_Masterslides.pdf">get slides</a>
 </small>
 </p>
 <hr>
