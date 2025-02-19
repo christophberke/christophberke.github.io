@@ -28,7 +28,7 @@ header:
     <hr>
     <em> Computational Physics (B.Sc.)  </em>
     <br>
-    Organizing and leading tutorials. Conceptualization of exercises and recording of video solutions. Substitute lecturer. Preparing videos with programming <a href="https://vimeo.com/817924885">tutorials </a>. 
+    Organizing and leading tutorials. Conceptualization of exercises and recording of video solutions. Substitute lecturer. Preparing videos with programming <a href="https://vimeo.com/817924885">tutorials</a>. 
   </div>
 </div>
 

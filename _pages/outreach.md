@@ -36,7 +36,7 @@ header:
 In recent years, I developed a passion for science communication and became actively involved in various public outreach events.
 Not only are these events enjoyable for me (and, as far as I can tell, for my audience as well), but I also see these events as crucial to strengthen trust in science and help the public understand the value of funding research. Events I have participated in include
 
-- Long Night of Science (Dresden, 2017): Talk about the quantum mechanical concept of time. <small>(<a href="https://tu-dresden.de/mn/der-bereich/news/interdisziplinaer-und-zukunftsgewandt-physikphilosophie-an-der-tud">learn more</a>,  <a href="../files/slidesLndW17.pdf">download slides</a>) </small>
+- Long Night of Science (Dresden, 2017): Talk about the quantum mechanical concept of time. <small>(<a href="https://tu-dresden.de/mn/der-bereich/news/interdisziplinaer-und-zukunftsgewandt-physikphilosophie-an-der-tud">learn more</a>)
 - Pint of Science (Cologne, 2022): Talk about my research on chaos in quantum computers. <small>(<a href = "https://ml4q.de/2022/05/11/back-in-the-pubs-again-ml4q-pint-of-science-2022/">learn more</a>)</small>
 - Türen auf mit der Maus (Cologne, 2022): Introductory talk on quantum computers for children (age 8 - 13). <small>(<a href = "https://ml4q.de/2022/10/10/open-house-with-die-maus-in-the-cologne-physics-institutes/">learn more</a>)</small>
 - Türen auf mit der Maus (Cologne, 2023): Computational physics workshop for children (age 8 - 13). <small>(<a href = "https://ml4q.de/2023/10/06/quantenphysik-begeistert-familien-bei-turen-auf-mit-der-maus-in-der-kolner-physik/">learn more</a>, <a href = "">download code and slides</a>)</small>
