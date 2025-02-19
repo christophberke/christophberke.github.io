@@ -12,14 +12,6 @@ header:
 <!-- <html> -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-/* body {
-  font-family: Arial;
-  margin: 0;
-} */
-
-
-
-
 
 /* Container for image text */
 .caption-container {
@@ -39,35 +31,37 @@ Not only are these events enjoyable for me (and, as far as I can tell, for my au
 - Long Night of Science (Dresden, 2017): Talk about the quantum mechanical concept of time. <small>(<a href="https://tu-dresden.de/mn/der-bereich/news/interdisziplinaer-und-zukunftsgewandt-physikphilosophie-an-der-tud">learn more</a>)
 - Pint of Science (Cologne, 2022): Talk about my research on chaos in quantum computers. <small>(<a href = "https://ml4q.de/2022/05/11/back-in-the-pubs-again-ml4q-pint-of-science-2022/">learn more</a>)</small>
 - Türen auf mit der Maus (Cologne, 2022): Introductory talk on quantum computers for children (age 8 - 13). <small>(<a href = "https://ml4q.de/2022/10/10/open-house-with-die-maus-in-the-cologne-physics-institutes/">learn more</a>)</small>
-- Türen auf mit der Maus (Cologne, 2023): Computational physics workshop for children (age 8 - 13). <small>(<a href = "https://ml4q.de/2023/10/06/quantenphysik-begeistert-familien-bei-turen-auf-mit-der-maus-in-der-kolner-physik/">learn more</a>, <a href = "">download code and slides</a>)</small>
+- Türen auf mit der Maus (Cologne, 2023): Computational physics workshop for children (age 8 - 13). <small>(<a href = "https://ml4q.de/2023/10/06/quantenphysik-begeistert-familien-bei-turen-auf-mit-der-maus-in-der-kolner-physik/">learn more</a>, <a href = "https://github.com/christophberke/makiephysicssimulations">download code and slides</a>)</small>
 - ZDI-Schülerlabor (Cologne 2024): Computational physics workshop for female pupils (age 14 - 16).  <small>(<a href = "https://ml4q.de/2024/03/04/schnupperuni-physik-beautiful-things-one-can-do-with-theoretical-physics/">learn more</a>)</small>
-- 10\. Night of Technologies (Cologne 2024): Introductory talk on quantum computers. <small>(<a href = "https://ml4q.de/2024/06/28/quantum-technology-represented-for-the-first-time-in-nacht-der-technik-cologne/">learn more</a>,  <a href="../files/slidesNdT24.pdf">download slides</a>) </small>
+- 10\. Night of Technologies (Cologne 2024): Introductory talk on quantum computers. <small>(<a href = "https://ml4q.de/2024/06/28/quantum-technology-represented-for-the-first-time-in-nacht-der-technik-cologne/">learn more</a>) </small>
+
+Let me know if you are interested in details or the slides.
 
 ## Some impressions
 
 <div class="SLcontainer">
 
-  <div class="mySlides" id = "10. Night of Technologies, Talk on quantum computers">
+  <div class="mySlides" id = "10. Night of Technologies (Cologne), Talk on quantum computers">
     <div class="numbertext" style="color:#fff">1 / 9</div>
     <img src="../images/LndT24.png" style="width:100%">
   </div>
   
-  <div class="mySlides" id = "10. Night of Technologies, Talk on quantum computers">
+  <div class="mySlides" id = "10. Night of Technologies (Cologne), Talk on quantum computers">
     <div class="numbertext">2 / 9</div>
     <img src="../images/LndT_talk.png" style="width:100%">
   </div>
 
-  <div class="mySlides" id = "Türen auf mit der Maus (Cologne 2022), Workshop on Computational Physics">
+  <div class="mySlides" id = "Türen auf mit der Maus (Cologne 2023), Workshop on Computational Physics">
     <div class="numbertext">3 / 9</div>
     <img src="../images/TamdM23.png" style="width:100%">
   </div>
 
-  <div class="mySlides" id = "Part I: Cellular automata and sea shell patterns">
+  <div class="mySlides" id = "Computational Physics Workshop (Cologne 2023), Part I: Sea shell patterns">
     <div class="numbertext">5 / 9</div>
     <img src="../images/ca.png" style="width:100%">
   </div>
 
-  <div class="mySlides" id = "Part II: The magnetic pendulum">
+  <div class="mySlides" id = "Computational Physics Workshop (Cologne 2023) , Part II: The magnetic pendulum">
     <div class="numbertext" style="color:#fff">4 / 9</div>
     <img src="../images/mag_pend.png" style="width:100%">
   </div>
