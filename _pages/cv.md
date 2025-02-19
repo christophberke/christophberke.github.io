@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-excerpt: "A detailed CV is available for download [here](../files/berkeCV.pdf)."
+excerpt: "A detailed CV is available for download [here](../files/cv_berke.pdf)."
 header:
   overlay_image: headerimage1.png
   overlay_filter: rgba(140, 21, 21, 0.5)
@@ -20,7 +20,7 @@ header:
 </style>
 
 
-<!-- A detailed CV is [available for download here](../files/berkeCV.pdf) -->
+<!-- A detailed CV is [available for download here](../files/cv_berke.pdf) -->
 
 
 

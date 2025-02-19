@@ -15,7 +15,7 @@ header:
   background-color: #fff;
   color: #444; */
   cursor: pointer;
-  padding: 8px 2px;
+  padding: 8px 8px;
   width: 100%;
   border: none;
   text-align: left;
@@ -26,7 +26,8 @@ header:
 }
 
 .active, .accordion:hover {
-  background-color: #ccc;
+  background-color: rgba(140, 21, 21, 0.1);
+  color: #8c1515;
 }
 
 .accordion:after {
@@ -62,7 +63,7 @@ header:
 <i> "Classical chaos in quantum computers"</i> 
 </a>
 <br>
-Simon-Dominik Börner, <strong>Christoph Berke</strong>, David P. DiVincenzo, Simon Trebst, Alexander Altland
+Simon-Dominik Börner, <strong>Christoph Berke</strong>, David P. DiVincenzo, Simon Trebst, and Alexander Altland
 <br>
 <span style="color:darkgray"> Physical Review Research <strong>6</strong>, 033128 (2024) </span>
 <small>
