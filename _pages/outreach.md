@@ -32,10 +32,11 @@ Not only are these events enjoyable for me (and, as far as I can tell, for my au
 - Pint of Science (Cologne, 2022): Talk about my research on chaos in quantum computers. <small>(<a href = "https://ml4q.de/2022/05/11/back-in-the-pubs-again-ml4q-pint-of-science-2022/">learn more</a>)</small>
 - Türen auf mit der Maus (Cologne, 2022): Introductory talk on quantum computers for children (age 8 - 13). <small>(<a href = "https://ml4q.de/2022/10/10/open-house-with-die-maus-in-the-cologne-physics-institutes/">learn more</a>)</small>
 - Türen auf mit der Maus (Cologne, 2023): Computational physics workshop for children (age 8 - 13). <small>(<a href = "https://ml4q.de/2023/10/06/quantenphysik-begeistert-familien-bei-turen-auf-mit-der-maus-in-der-kolner-physik/">learn more</a>, <a href = "https://github.com/christophberke/makiephysicssimulations">download code and slides</a>)</small>
-- ZDI-Schülerlabor (Cologne 2024): Computational physics workshop for female pupils (age 14 - 16).  <small>(<a href = "https://ml4q.de/2024/03/04/schnupperuni-physik-beautiful-things-one-can-do-with-theoretical-physics/">learn more</a>)</small>
+- ZDI-Schüler*Innenlabor (Cologne 2024): Computational physics workshop for female pupils (age 14 - 16).  <small>(<a href = "https://ml4q.de/2024/03/04/schnupperuni-physik-beautiful-things-one-can-do-with-theoretical-physics/">learn more</a>, <a href = "https://github.com/christophberke/makiephysicssimulations">download code and slides</a>)</small>
 - 10\. Night of Technologies (Cologne 2024): Introductory talk on quantum computers. <small>(<a href = "https://ml4q.de/2024/06/28/quantum-technology-represented-for-the-first-time-in-nacht-der-technik-cologne/">learn more</a>) </small>
+- ZDI-Schüler*Innenlabor (Cologne 2025): Computational physics workshop for female pupils (age 14 - 16). <small>(<a href = "https://github.com/christophberke/makiephysicssimulations">download code and slides</a>)</small>
 
-Let me know if you are interested in details or the slides.
+Let me know if you are interested in details.
 
 ## Some impressions
 
