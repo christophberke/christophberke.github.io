@@ -1,6 +1,6 @@
 ---
-# permalink: /non-menu-page/
-title: "Page not in menu"
+# permalink: /infos_wedding_jc/
+title: "Hier noch ein paar mehr Infos:"
 author_profile: true
 redirect_from: 
   - "/nmp/"
@@ -9,8 +9,8 @@ redirect_from:
 
 This is a page not in the menu. You can use markdown in this page.
 
-Heading 1
+Parkmöglichkeiten und Anreise
 ======
 
-Heading 2
+Dress Code
 ======
