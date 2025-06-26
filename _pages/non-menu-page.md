@@ -1,5 +1,5 @@
 ---
-# permalink: /infos_wedding_jc/
+permalink: /infos_wedding_jc/
 title: "Hier noch ein paar mehr Infos:"
 author_profile: true
 redirect_from: 
